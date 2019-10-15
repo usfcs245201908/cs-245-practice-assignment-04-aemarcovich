@@ -1,3 +1,9 @@
+/**
+*Selection Sort works by taking in an array
+*Than repeatily locating the lowest number and put 
+*it the front. This should result in a sort in
+*acending order.
+*/
 public class SelectionSort implements SortingAlgorithm
 {
 	public void sort(int [] a)
